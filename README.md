@@ -7,12 +7,12 @@
 ## CSS resources
 
 In this project you will check the usability of the following resources:
-    * padding, margin, background, color, size
-    * width, height
-    * display, justify-content, align-items, flex-direction
-    * media queries
+- padding, margin, background, color, size
+- width, height
+- display, justify-content, align-items, flex-direction
+- media queries
 
 ## Meta
 
 Débora Negrão - (https://www.linkedin.com/in/deboranegrao/) - deboraafnegrao@gmail.com
-You can check the project in: (https://instagram-landing-page.deboranegrao.repl.co/)
+You can check the project in: [instagram-landing-page](https://instagram-landing-page.deboranegrao.repl.co/ "repl.it project")
