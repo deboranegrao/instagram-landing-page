@@ -15,4 +15,5 @@ In this project you will check the usability of the following resources:
 ## Meta
 
 Débora Negrão - (https://www.linkedin.com/in/deboranegrao/) - deboraafnegrao@gmail.com
+
 You can check the project in: [instagram-landing-page](https://instagram-landing-page.deboranegrao.repl.co/ "repl.it project")
